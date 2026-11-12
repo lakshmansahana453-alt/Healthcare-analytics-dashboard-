@@ -37,11 +37,15 @@ Explores the patient population through: - Total number of patients -
 Gender distribution - Patients by city - Patients by age group -
 Patients by chronic disease
 
+<img width="1919" height="1078" alt="Dashboard 1" src="https://github.com/user-attachments/assets/e33b3eb2-59c3-4e77-b08e-952b2709bc76" />
+
 ### 2. Appointment Analysis Dashboard
 
 Examines appointment activity, including: - Scheduled appointments -
 Walk-in appointments - Emergency appointments - Average waiting time -
 Appointment trends by month
+
+<img width="1919" height="1079" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c4d8d8ae-edc8-469f-82e1-ed9031d3860e" />
 
 ### 3. Revenue and Medical Cost Dashboard
 
@@ -49,11 +53,16 @@ Reviews hospital financial performance through: - Total revenue -
 Average bill amount per patient - Revenue by department - Medicine
 costs - Test costs
 
+<img width="1919" height="1079" alt="Dashboard 3" src="https://github.com/user-attachments/assets/ed80072a-e4cd-447f-85c0-c921495b8085" />
+
 ### 4. Cost and Department Analysis Dashboard
 
 Provides additional cost comparisons, including: - Average medicine and
 test costs - Test costs by department - Average bill amount by city -
 Department-level financial comparisons
+
+<img width="1919" height="1079" alt="Dashboard 4" src="https://github.com/user-attachments/assets/522d8cad-33f2-40fe-8989-70117b3e2db8" />
+
 
 ## How to Use
 
